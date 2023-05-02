@@ -6,8 +6,8 @@ I'm currently working as a junior full-stack developer for [Starlab Technologies
 ## ⚙ Technologies
 ✅ HTML5<br>
 ✅ CSS3 + SCSS<br>
-✅ Javascript + React<br>
+✅ Javascript + React, Typescript<br>
 ✅ Python + Django<br>
 ✅ SQL <br>
-✅ C <br>
+✅ C/C++<br>
 ✅ GNU/Linux <br>
